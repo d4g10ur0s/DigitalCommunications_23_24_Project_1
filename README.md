@@ -1,7 +1,7 @@
 - Initial Commit 10/01/24
 
-- ervthma_1.mat : Meros A ervthma_1
-- ervthma_2.mat : Meros A ervthma_2
+- ervthma_1.m : Meros A ervthma_1
+- ervthma_2.m : Meros A ervthma_2
 
-- merosB.mat : DPCM
-- 
+- merosB.m : DPCM
+- uniform_quantizer.m : Uniform Quantizer
